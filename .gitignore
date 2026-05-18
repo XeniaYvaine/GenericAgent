@@ -125,3 +125,7 @@ reflect/*
 **/__pycache__/
 
 .claude/
+
+# Local config files
+GA.ico
+run_tuiapp.bat
